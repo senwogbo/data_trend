@@ -94,3 +94,7 @@ h1 {
 h2{
     color: blueviolet;
 }
+
+.grid{
+    display: grid;
+}
