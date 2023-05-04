@@ -98,3 +98,6 @@ h2{
 .grid{
     display: grid;
 }
+li{
+    list-style-type: none;
+}
