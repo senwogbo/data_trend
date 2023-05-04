@@ -60,11 +60,11 @@ img {
     align-content: center;
 }
 
-.centre{
+p.centre{
     color: mediumblue;
 }
 
-.large{
+p.large{
     font-size: medium;
 }
 
